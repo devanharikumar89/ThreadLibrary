@@ -1,0 +1,6 @@
+In myThreadYield, two lines at the beginning.
+In MySemaphoreDestroy, commented a "printf"
+
+Both the above changes are marked "patch start" and "patch end"
+
+
